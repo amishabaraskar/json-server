@@ -1,0 +1,133 @@
+{"fooditems":[
+    {
+      "id": 1,
+      "RecipeName": "Masala Karela Recipe",
+      "Cuisine": "Indian",
+      "Course": "Side Dish",
+      "Diet": "Vegan",
+      "URL": "/Recipe1.jpg"
+    },
+    {
+        "id": 3,
+        "RecipeName": "Gongura Chicken Curry Recipe - Andhra Style Gongura Chicken",
+        "Cuisine": "Andhra",
+        "Course": "Lunch",
+        "Diet": "Non Vegeterian",
+        "URL": "/Recipe3.jpg"
+      },
+  
+    {
+      "id": 2,
+      "RecipeName": "Ragi Semiya Upma Recipe - Ragi Millet Vermicelli Breakfast",
+      "Cuisine": "South Indian Recipes",
+      "Course": "South Indian Breakfast",
+      "Diet": "Vegan",
+      "URL": "/Recipe2.jpg"
+    },
+    {
+      "id": 4,
+      "RecipeName": "Pudina Khara Pongal Recipe (Rice and Lentils Cooked With Mint Leaves & Mild Spices)",
+      "Cuisine": "South Indian Recipes",
+      "Course": "South Indian Breakfast",
+      "Diet": "Vegan",
+      "URL": "/Recipe4.jpg"
+    },
+    {
+      "id": 5,
+      "RecipeName": "Udupi Style Ash Gourd Coconut Curry Recipe",
+      "Cuisine": "Udupi",
+      "Course": "Lunch",
+      "Diet": "Vegan",
+      "URL": "/Recipe5.jpg"
+    },
+    {
+      "id": 6,
+      "RecipeName": "Mexican Style Black Bean Burrito Recipe",
+      "Cuisine": "Mexican",
+      "Course": "Lunch",
+      "Diet": "Vegetarian",
+      "URL": "/Recipe6.jpg"
+    },
+    {
+      "id": 7,
+      "RecipeName": "Spicy Crunchy Masala Idli Recipe",
+      "Cuisine": "South Indian Recipes",
+      "Course": "Snack",
+      "Diet": "Vegetarian",
+      "URL": "/Recipe7.jpg"
+    },
+    {
+      "id": 8,
+      "RecipeName": "Homemade Baked Beans Recipe (Wholesome & Healthy)",
+      "Cuisine": "Fusion",
+      "Course": "High Protein Vegetarian",
+      "Diet": "Vegan",
+      "URL": "/Recipe8.jpg"
+    },
+    {
+      "id": 9,
+      "RecipeName": "Veg Chili Cheese Burgers Recipe",
+      "Cuisine": "Continental",
+      "Course": "Main Course",
+      "Diet": "Vegetarian",
+      "URL": "/Recipe9.jpg"
+    },
+    {
+      "id": 10,
+      "RecipeName": "Andhra Style Ingavu Chaaru Recipe - Asafoetida Flavored Tamarind Rasam",
+      "Cuisine": "Andhra",
+      "Course": "Lunch",
+      "Diet": "Vegan",
+      "URL": "/Recipe10.jpg"
+    },
+    {
+      "id": 11,
+      "RecipeName": "Aar Macher Jhol Recipe - Bengali Style Fish In Tomato Gravy",
+      "Cuisine": "Bengali Recipes",
+      "Course": "Dinner",
+      "Diet": "High Protein Non Vegetarian",
+      "URL": "/Recipe11.jpg"
+    },
+    {
+      "id": 12,
+      "RecipeName": "Saunf Aloo (Fennel Potato Curry) Recipe",
+      "Cuisine": "Punjabi",
+      "Course": "Lunch",
+      "Diet": "Vegan",
+      "URL": "/Recipe12.jpg"
+    },
+    {
+        "id": 13,
+        "RecipeName": "Cheesy Spinach Stuffed chicken",
+        "Cuisine": "Continental",
+        "Course": "Lunch",
+        "Diet": "Fat free",
+        "URL": "/Recipe13.jpg"
+      },
+      {
+        "id": 14,
+        "RecipeName": "Roasted Broccolini with Lemon & Parmesan",
+        "Cuisine": "Continental",
+        "Course": "Lunch",
+        "Diet": "Fat free",
+        "URL": "/Recipe14.jpg"
+      },
+      {
+        "id": 15,
+        "RecipeName": "Bacon, Cheddar & Spinach Strata",
+        "Cuisine": "Continental",
+        "Course": "Lunch",
+        "Diet": "Fat free",
+        "URL": "/Recipe15.jpg"
+      },
+      {
+        "id": 16,
+        "RecipeName": "Paneer Tikka",
+        "Cuisine": "Indian",
+        "Course": "Lunch",
+        "Diet": "Fat free",
+        "URL": "/Recipe16.jpg"
+      }
+
+    
+  ]}
